@@ -1,6 +1,4 @@
-<<<<<<< HEAD
 # System-Management-Products
-=======
 # Product Management System.
 
 ## Description.
@@ -61,4 +59,3 @@ Exiting the product management system.
 - Does not include data persistence in files.
 - Search and update are not case sensitive in the name.
 - Code commented to explain each section.
->>>>>>> 28b04bb (Feat: New Files and Repository)
