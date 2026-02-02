@@ -1,4 +1,3 @@
-# System-Management-Products
 # Product Management System.
 
 ## Description.
